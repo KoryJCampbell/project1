@@ -2,15 +2,19 @@
 
 html {
   background-color: white;
+  background-image: url(background.jpg);
+  background-position: top;
+background-size: cover;
 }
 h1 {
   text-align: center;
+  text-decoration: inherit;
 }
 
 /* Card Selector */
 button {
 width: 200px;
-height: 150px;
+height:150px;
 border-style: solid;
 border-color: black;
 }
@@ -145,8 +149,12 @@ border-color: black;
   height: 150px;
 }
 
-buttonBlue {
+blue {
   background-color: blue;
+}
+
+orange {
+  background-color: orange;
 }
 
 
@@ -154,80 +162,80 @@ buttonBlue {
 
 #myimage1 {
   height: 140px;
-  width: 150px;
+  width: 180px;
 }
 
 #myimage2 {
   height: 140px;
-  width: 150px;
+  width: 180px;
 }
 
 #myimage3 {
   height: 140px;
-  width: 150px;
+  width: 180px;
 }
 
 #myimage4 {
   height: 140px;
-  width: 150px;
+  width: 180px;
 }
 
 #myimage5 {
   height: 140px;
-  width: 150px;
+  width: 180px;
 }
 
 #myimage6 {
   height: 140px;
-  width: 150px;
+  width: 180px;
 }
 
 #myimage7 {
   height: 140px;
-  width: 150px;
+  width: 180px;
 }
 
 #myimage8 {
   height: 140px;
-  width: 150px;
+  width: 180px;
 }
 
 #myimage9 {
   height: 140px;
-  width: 150px;
+  width: 180px;
 }
 
 #myimage10 {
   height: 140px;
-  width: 150px;
+  width: 180px;
 }
 
 #myimage11 {
   height: 140px;
-  width: 150px;
+  width: 180px;
 }
 
 #myimage12 {
   height: 140px;
-  width: 150px;
+  width: 180px;
 }
 
 #myimage13 {
   height: 140px;
-  width: 150px;
+  width: 180px;
 }
 
 #myimage14 {
   height: 140px;
-  width: 150px;
+  width: 180px;
 }
 
 #myimage15 {
   height: 140px;
-  width: 150px;
+  width: 180px;
 }
 
 #myimage16 {
   height: 140px;
-  width: 150px;
+  width: 180px;
 }

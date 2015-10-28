@@ -1,7 +1,7 @@
 
 $(document).ready(function() {
 $(".button1").on("click", function() {
-    $("#myimage1").hide();
+  $("#myimage1").toggle('card');
     $(this).css('background', 'blue');
     console.log("blue");
   });
@@ -9,7 +9,7 @@ $(".button1").on("click", function() {
 
 $(document).ready(function() {
   $(".button2").on("click", function() {
-    $("#myimage2").hide();
+    $("#myimage2").toggle('card');
     $(this).css('background', 'red');
     console.log("red");
   });
@@ -17,7 +17,7 @@ $(document).ready(function() {
 
 $(document).ready(function() {
   $(".button3").on("click", function() {
-    $("#myimage3").hide();
+    $("#myimage3").toggle('card');
     $(this).css('background', 'yellow');
     console.log("yellow");
   });
@@ -25,7 +25,7 @@ $(document).ready(function() {
 
 $(document).ready(function() {
   $(".button4").on("click", function() {
-    $("#myimage4").hide();
+    $("#myimage4").toggle('card');
     $(this).css('background', 'green');
     console.log("green");
   });
@@ -33,7 +33,7 @@ $(document).ready(function() {
 
 $(document).ready(function() {
   $(".button5").on("click", function() {
-    $("#myimage5").hide();
+    $("#myimage5").toggle('card');
     $(this).css('background', 'purple');
     console.log("purple");
   });
@@ -41,7 +41,7 @@ $(document).ready(function() {
 
 $(document).ready(function() {
   $(".button6").on("click", function() {
-    $("#myimage6").hide();
+    $("#myimage6").toggle('card');
     $(this).css('background', 'aqua');
     console.log("aqua");
   });
@@ -49,7 +49,7 @@ $(document).ready(function() {
 
 $(document).ready(function() {
   $(".button7").on("click", function() {
-    $("#myimage7").hide();
+    $("#myimage7").toggle('card');
     $(this).css('background', 'pink');
     console.log("pink");
   });
@@ -57,7 +57,7 @@ $(document).ready(function() {
 
 $(document).ready(function() {
   $(".button8").on("click", function() {
-    $("#myimage8").hide();
+    $("#myimage8").toggle('card');
     $(this).css('background', 'orange');
     console.log("orange");
   });
@@ -65,7 +65,7 @@ $(document).ready(function() {
 
 var button9 = $(document).ready(function() {
 $(".button9").on("click", function() {
-    $("#myimage9").hide();
+    $("#myimage9").toggle('card');
     $(this).css('background', 'blue');
     console.log("blue");
   });
@@ -73,7 +73,7 @@ $(".button9").on("click", function() {
 
 $(document).ready(function() {
   $(".button10").on("click", function() {
-    $("#myimage10").hide();
+    $("#myimage10").toggle('card');
     $(this).css('background', 'red');
     console.log("red");
   });
@@ -81,7 +81,7 @@ $(document).ready(function() {
 
 $(document).ready(function() {
   $(".button11").on("click", function() {
-    $("#myimage11").hide();
+    $("#myimage11").toggle('card');
     $(this).css('background', 'yellow');
     console.log("yellow");
   });
@@ -89,7 +89,7 @@ $(document).ready(function() {
 
 $(document).ready(function() {
   $(".button12").on("click", function() {
-    $("#myimage12").hide();
+    $("#myimage12").toggle('card');
     $(this).css('background', 'green');
     console.log("green");
   });
@@ -97,7 +97,7 @@ $(document).ready(function() {
 
 $(document).ready(function() {
   $(".button13").on("click", function() {
-    $("#myimage13").hide();
+    $("#myimage13").toggle('card');
     $(this).css('background', 'purple');
     console.log("purple");
   });
@@ -105,7 +105,7 @@ $(document).ready(function() {
 
 $(document).ready(function() {
   $(".button14").on("click", function() {
-    $("#myimage14").hide();
+    $("#myimage14").toggle('card');
     $(this).css('background', 'aqua');
     console.log("aqua");
   });
@@ -113,7 +113,7 @@ $(document).ready(function() {
 
 $(document).ready(function() {
   $(".button15").on("click", function() {
-    $("#myimage15").hide();
+    $("#myimage15").toggle('card');
     $(this).css('background', 'pink');
     console.log("pink");
   });
@@ -121,7 +121,7 @@ $(document).ready(function() {
 
 $(document).ready(function() {
   $(".button16").on("click", function() {
-    $("#myimage16").hide();
+    $("#myimage16").toggle('card');
     $(this).css('background', 'orange');
     console.log("orange");
   });
