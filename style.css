@@ -1,0 +1,233 @@
+
+
+html {
+  background-color: white;
+}
+h1 {
+  text-align: center;
+}
+
+/* Card Selector */
+button {
+width: 200px;
+height: 150px;
+border-style: solid;
+border-color: black;
+}
+
+/* Game Board */
+
+.gameCards {
+  float:none;
+  margin-left: 18.5em;
+  position: absolute;
+  border-style: solid;
+  border-width: medium;
+}
+
+/* Row of Cards */
+
+.row1 {
+  display: flex;
+  flex: auto;
+}
+
+.row2 {
+  display: flex;
+  flex:auto;
+}
+
+.row3 {
+  display: flex;
+  flex: auto;
+}
+.row4 {
+  display: flex;
+  flex: auto;
+}
+
+/* Individual Card Class */
+
+.card1 {
+  background-color: white;
+  width: 200px;
+  height: 150px;
+}
+
+.card2 {
+  background-color: red;
+  width: 200px;
+  height: 150px;
+}
+
+.card3 {
+  background-color: white;
+  width: 200px;
+  height: 150px;
+}
+
+.card4 {
+  background-color: red;
+  width: 200px;
+  height: 150px;
+}
+
+.card5 {
+  background-color: red;
+  width: 200px;
+  height: 150px;
+}
+
+
+.card6 {
+  background-color: white;
+  width: 200px;
+  height: 150px;
+}
+
+.card7 {
+  background-color: red;
+  width: 200px;
+  height: 150px;
+}
+
+.card8 {
+  background-color: white;
+  width: 200px;
+  height: 150px;
+}
+
+.card9 {
+  background-color: white;
+  width: 200px;
+  height: 150px;
+}
+
+.card10 {
+  background-color: red;
+  width: 200px;
+  height: 150px;
+}
+
+.card11 {
+  background-color: white;
+  width: 200px;
+  height: 150px;
+}
+
+.card12 {
+  background-color: red;
+  width: 200px;
+  height: 150px;
+}
+
+.card13 {
+  background-color: red;
+  width: 200px;
+  height: 150px;
+}
+
+.card14 {
+  background-color: white;
+  width: 200px;
+  height: 150px;
+}
+
+.card15 {
+  background-color: red;
+  width: 200px;
+  height: 150px;
+}
+
+.card16 {
+  background-color: white;
+  width: 200px;
+  height: 150px;
+}
+
+buttonBlue {
+  background-color: blue;
+}
+
+
+/* Back of Card Images */
+
+#myimage1 {
+  height: 140px;
+  width: 150px;
+}
+
+#myimage2 {
+  height: 140px;
+  width: 150px;
+}
+
+#myimage3 {
+  height: 140px;
+  width: 150px;
+}
+
+#myimage4 {
+  height: 140px;
+  width: 150px;
+}
+
+#myimage5 {
+  height: 140px;
+  width: 150px;
+}
+
+#myimage6 {
+  height: 140px;
+  width: 150px;
+}
+
+#myimage7 {
+  height: 140px;
+  width: 150px;
+}
+
+#myimage8 {
+  height: 140px;
+  width: 150px;
+}
+
+#myimage9 {
+  height: 140px;
+  width: 150px;
+}
+
+#myimage10 {
+  height: 140px;
+  width: 150px;
+}
+
+#myimage11 {
+  height: 140px;
+  width: 150px;
+}
+
+#myimage12 {
+  height: 140px;
+  width: 150px;
+}
+
+#myimage13 {
+  height: 140px;
+  width: 150px;
+}
+
+#myimage14 {
+  height: 140px;
+  width: 150px;
+}
+
+#myimage15 {
+  height: 140px;
+  width: 150px;
+}
+
+#myimage16 {
+  height: 140px;
+  width: 150px;
+}
