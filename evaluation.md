@@ -18,7 +18,7 @@
 
 **Meets Expectations**. Solid job. Your indentation and style were consistent. Your code could benefit from some comments explaining what relevant chunks of code do. There are also a lot of opportunities for refactoring and making your code DRYer. Take a look at my inline comments via the link below.
 
-[inline code comments here](https://github.com/jshawl/wdi_project_1/compare/73e11c4...5c7cbec)
+[inline code comments here](https://github.com/KoryJCampbell/project1/pull/1/files)
 
 ## Problem Solving
 
