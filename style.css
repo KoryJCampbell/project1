@@ -9,7 +9,11 @@ h1 {
   text-decoration: inherit;
 }
 
+/* AM: Props on sectioning out your stylesheet. Makes it a lot easier to read. */
+
 /* Card Selector */
+
+/* AM: Please be consistent with indentation! */
 button {
 width: 200px;
 height:150px;
@@ -49,6 +53,11 @@ border-color: black;
 }
 
 /* Individual Card Class */
+
+/*
+  AM: Another BIG opportuntity for refactoring. It looks like every card has the same width and height.
+  AM: Rather than repeat this information for each card, why not create one class that contains the width and height and can be applied to each card?
+*/
 
 .card1 {
   background-color: white;
@@ -157,6 +166,10 @@ orange {
 
 
 /* Back of Card Images */
+
+/*
+  AM: Ditto my above comment about consolidating common CSS properties into a single class.
+*/
 
 #myimage1 {
   height: 140px;
